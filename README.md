@@ -1,0 +1,1 @@
+# Mojave-for-Lenovo-Yoga710
