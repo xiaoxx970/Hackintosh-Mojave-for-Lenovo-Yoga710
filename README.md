@@ -33,4 +33,4 @@ Here's my hardware:
 
 I'm just put my clover files here, hope there's help for you. As for installing detals, check here:[Hackintosh Installer University](https://github.com/huangyz0918/Hackintosh-Installer-University)
 
-## Download link: [CLOVER.zip](CLOVER.zip)
+## Download link: [CLOVER.zip](https://xiaoxx.cc/hackintosh-of-yoga710/CLOVER.zip)
